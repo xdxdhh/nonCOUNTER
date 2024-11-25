@@ -1,0 +1,504 @@
+[
+    {
+        "id": 1,
+        "filename": "WWO_DCU_Page_views_2022.csv",
+        "parser": 19,
+        "platform": "Women Writers Online",
+        "source": null,
+        "begin_month": "01-22",
+        "end_month": "12-22",
+        "metrics": [
+            "Pages"
+        ],
+        "titles": 1,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": [
+            "Publisher",
+            "Publisher_ID"
+        ]
+    },
+    {
+        "id": 2,
+        "filename": "WSJ_Template",
+        "parser": 63,
+        "platform": null,
+        "source": null,
+        "begin_month": "01-23",
+        "end_month": "02-23",
+        "metrics": [
+            "Activated Users at the End of the Month",
+            "Number of Visits",
+            "Number of Page Views",
+            "Total Authorized Users (terms)"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": []
+    },
+    {
+        "id": 3,
+        "filename": "Usage_Report_for_Florida_International_University__FIU___01_Jul_2022_-_3_tyUKY2s",
+        "parser": 61,
+        "platform": "Uptodate",
+        "source": "Australian National University",
+        "begin_month": "01-20",
+        "end_month": "11-23",
+        "metrics": [
+            "Topic Hits"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": []
+    },
+    {
+        "id": 4,
+        "filename": "uni_db1_44319_01-01-23_technische_hochschule_wildau__hochschulbibliothek__2_",
+        "parser": 18,
+        "platform": "Statista",
+        "source": "Technische Hochschule Wildau - Hochschulbibliothek",
+        "begin_month": "01-22",
+        "end_month": "12-22",
+        "metrics": [
+            "Regular Searches",
+            "Result Clicks",
+            "Record Views",
+            "Result Downloads PPTX",
+            "Result Downloads PDF",
+            "Result Downloads PNG",
+            "Result Downloads EXCEL"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": [
+            "Database",
+            "Publisher",
+            "Platform"
+        ]
+    },
+    {
+        "id": 5,
+        "filename": "Swank_FY22",
+        "parser": 7,
+        "platform": "Swank, Digital Campus",
+        "source": null,
+        "begin_month": "07-21",
+        "end_month": "06-22",
+        "metrics": [
+            "Title Playbacks"
+        ],
+        "titles": 1,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": [
+            "Content Provider",
+            "Platform",
+            "Release Year",
+            "Currently Licensed",
+            "License Start Date",
+            "License End Date"
+        ]
+    },
+    {
+        "id": 6,
+        "filename": "Sanborn_monthly_stats_2016_-_present",
+        "parser": 75,
+        "platform": "Sanborn Digital Insurance Maps",
+        "source": null,
+        "begin_month": "01-16",
+        "end_month": "03-24",
+        "metrics": [
+            "Hits",
+            "Pages",
+            "Unique Visitors",
+            "Number of Visits"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": []
+    },
+    {
+        "id": 7,
+        "filename": "report__1_.csv",
+        "parser": 99,
+        "platform": "GrantForward",
+        "source": "Smith College",
+        "begin_month": "07-24",
+        "end_month": "07-24",
+        "metrics": [
+            "Number of unique visitors",
+            "Number of Visits",
+            "Number of Searches"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": []
+    },
+    {
+        "id": 8,
+        "filename": "RAW-oreilly_20240802-155335.469941",
+        "parser": 12,
+        "platform": "O\u2019Reilly",
+        "source": "American University",
+        "begin_month": "07-24",
+        "end_month": "07-24",
+        "metrics": [
+            "Units Viewed"
+        ],
+        "titles": 1,
+        "title_identifiers": [
+            "ISBN",
+            "proprietary"
+        ],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": [
+            "Publisher",
+            "Course URL",
+            "Product Type"
+        ]
+    },
+    {
+        "id": 9,
+        "filename": "RAW-mergent_20230918-203808.866356",
+        "parser": 55,
+        "platform": "Mergent",
+        "source": null,
+        "begin_month": "07-22",
+        "end_month": "06-23",
+        "metrics": [
+            "Printed",
+            "Searched",
+            "Activities",
+            "Downloaded",
+            "Data Module",
+            "Pages Viewed",
+            "Companies Viewed"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "daily",
+        "metadata": [
+            "IP Address",
+            "User Name",
+            "Login Time"
+        ]
+    },
+    {
+        "id": 10,
+        "filename": "RAW-encyclopaedia-britannica_20230717-204617.908465",
+        "parser": 45,
+        "platform": "Encyclopaedia Britannica",
+        "source": "Universidad del Norte",
+        "begin_month": "01-23",
+        "end_month": "06-23",
+        "metrics": [
+            "BOL \u2013 Sessions",
+            "BOL \u2013 Documents",
+            "BOL \u2013 Queries",
+            "BOL \u2013 Media",
+            "BOL \u2013 Hits",
+            "Total Sessions"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": []
+    },
+    {
+        "id": 11,
+        "filename": "Legaltrac-template",
+        "parser": 86,
+        "platform": "Legaltrac",
+        "source": null,
+        "begin_month": "01-20",
+        "end_month": "01-20",
+        "metrics": [
+            "Searches",
+            "Sessions",
+            "Retrievals"
+        ],
+        "titles": 1,
+        "title_identifiers": [
+            "Proprietary"
+        ],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": []
+    },
+    {
+        "id": 12,
+        "filename": "HeinOnline_Hits_report",
+        "parser": 30,
+        "platform": "Hein",
+        "source": null,
+        "begin_month": "06-20",
+        "end_month": "05-23",
+        "metrics": [
+            "Hits",
+            "Visits",
+            "Articles",
+            "Searches",
+            "Page Views"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": []
+    },
+    {
+        "id": 13,
+        "filename": "hein-copied_from_email",
+        "parser": 30,
+        "platform": "Hein",
+        "source": null,
+        "begin_month": "03-24",
+        "end_month": "05-24",
+        "metrics": [
+            "Hits",
+            "Visits",
+            "Articles",
+            "Searches",
+            "Page Views"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": []
+    },
+    {
+        "id": 14,
+        "filename": "eHRAF_World_Cultures",
+        "parser": 13,
+        "platform": "eHRAF",
+        "source": null,
+        "begin_month": "07-21",
+        "end_month": "06-22",
+        "metrics": [
+            "User",
+            "Logins",
+            "Notebook",
+            "Help Views",
+            "Citation Views*",
+            "Total Requests",
+            "Total Activities",
+            "Browse Activities",
+            "Search Activities",
+            "Document Views/Activities"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": []
+    },
+    {
+        "id": 15,
+        "filename": "BloombergLaw-template",
+        "parser": 93,
+        "platform": "Bloomberg Law",
+        "source": null,
+        "begin_month": "07-22",
+        "end_month": "06-23",
+        "metrics": [
+            "BNA.com Site Views",
+            "Bloomberglaw.com Site Views",
+            "Alerts Sent",
+            "Law Report Email Opens",
+            "Law Report Email Subscriptions"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": []
+    },
+    {
+        "id": 16,
+        "filename": "21-22_NAXOS",
+        "parser": 21,
+        "platform": "Naxos",
+        "source": "Florida International University ",
+        "begin_month": "07-21",
+        "end_month": "06-22",
+        "metrics": [
+            "Total Numbers of Turnaways",
+            "Total Logins (Including Mobile)",
+            "Total Mobile Logins",
+            "Ave. Session Time per Login",
+            "Total Page Visited",
+            "Total Number of Tracks Played"
+        ],
+        "titles": 0,
+        "titles.1": 0,
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": [],
+        "title_identifiers": []
+    },
+    {
+        "id": 17,
+        "filename": "Brepolis_Sessions_2021_UCD",
+        "parser": 3,
+        "platform": "BREPOLS",
+        "source": null,
+        "begin_month": "01-21",
+        "end_month": "12-21",
+        "metrics": [
+            "Sessions"
+        ],
+        "titles": 1,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": [
+            "Publisher"
+        ]
+    },
+    {
+        "id": 18,
+        "filename": "21-22_Choice_Reviews",
+        "parser": 14,
+        "platform": "Choice",
+        "source": "Florida Interantional University",
+        "begin_month": "07-21",
+        "end_month": "06-22",
+        "metrics": [
+            "Unique Registered Users",
+            "Registered User Sessions",
+            "Anonymous Sessions",
+            "Total Sessions",
+            "Generic Page View (all pages)",
+            "Total Searches",
+            "Unique Reviews Read",
+            "Review Readings in Expanded View",
+            "Review Readings in Single-page View",
+            "Total Review Readings",
+            "Unique Articles Read",
+            "Total Article Readings"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": []
+    },
+    {
+        "id": 19,
+        "filename": "analytics",
+        "parser": 72,
+        "platform": "A&AePortal",
+        "source": "Smith College",
+        "begin_month": "07-23",
+        "end_month": "06-24",
+        "metrics": [
+            "Total_Item_Requests",
+            "Unique_Title_Requests"
+        ],
+        "titles": 1,
+        "title_identifiers": [
+            "DOI",
+            "Proprietary",
+            "Print ISSN",
+            "Online ISSN"
+        ],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": [
+            "Publisher",
+            "URI",
+            "Publisher_ID",
+            "Platform"
+        ]
+    },
+    {
+        "id": 20,
+        "filename": "HyRead-Template",
+        "parser": 59,
+        "platform": "HyRead",
+        "source": null,
+        "begin_month": "01-20",
+        "end_month": "12-20",
+        "metrics": [
+            "\u6bcf\u6708\u95b1\u8b80\u96fb\u5b50\u66f8\u6b21\u6578",
+            "\u6bcf\u6708\u95b1\u8b80\u96dc\u8a8c\u6b21\u6578",
+            "\u6bcf\u6708\u5f71\u7247\u64ad\u653e\u5df2\u6eff\u6b21\u6578",
+            "\u6bcf\u6708\u95b1\u8b80\u96fb\u5b50\u66f8\u7ae0\u7bc0\u6b21\uf969",
+            "\u6bcf\u6708\u95b1\u8b80\u96dc\u8a8c\u7ae0\u7bc0\u6b21\uf969",
+            "\u6bcf\u6708\u64ad\u653e\u5f71\u7247\u7ae0\u7bc0\u6b21\u6578",
+            "\u6bcf\u6708\u501f\u95b1\u5df2\u6eff\u96fb\u5b50\u66f8\u6b21\u6578",
+            "\u6bcf\u6708\u501f\u95b1\u5df2\u6eff\u96dc\u8a8c\u6b21\u6578",
+            "\u6bcf\u6708\u700f\u89bd\u96fb\u5b50\u66f8\u8a73\u76ee\u6b21\u6578",
+            "\u6bcf\u6708\u700f\u89bd\u96dc\u8a8c\u8a73\u76ee\u6b21\u6578",
+            "\u6bcf\u6708\u700f\u89bd\u5f71\u7247\u8a73\u76ee\u6b21\u6578"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 0,
+        "granularity": "monthly",
+        "metadata": [],
+        "metrics_en": "Multimedia play, Access Denied to Content Items (ebook), Access Denied to Content Items (magazine),Number of Successful Title (ebook) Requests, Number of Successful request (browse ebook), Number of Successful request (browse magzine), Number of Successful Section (magazine) Requests"
+    },
+    {
+        "id": 21,
+        "filename": "H-Net-tempate",
+        "parser": 88,
+        "platform": "H-Net",
+        "source": null,
+        "begin_month": "01-23",
+        "end_month": "12-23",
+        "metrics": [
+            "Hits",
+            "Page Views",
+            "Visitors",
+            "Bandwidth (KB)"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": []
+    },
+    {
+        "id": 22,
+        "filename": "903675437_-_UNIVERSITY_OF_HARTFORD_Usage_Report_-_Raw_Data_1",
+        "parser": 20,
+        "platform": "NYT",
+        "source": "University of Hartford",
+        "begin_month": "06-28",
+        "end_month": "03-23",
+        "metrics": [
+            "Period Activations",
+            "Period Activation Rate",
+            "Period Expirations",
+            "Active Seats",
+            "Active Seat Rate",
+            "Usage Sessions",
+            "Page Views",
+            "Articles Read"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": [
+            "Access Model"
+        ]
+    }
+]
