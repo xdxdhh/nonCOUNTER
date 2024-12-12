@@ -16,12 +16,13 @@ client = OpenAI()
 # TODO docstring
 #will create input jsonl file
 
-def get_data_description(folder, n: int, model):
+def get_data_description(folder, n: int, model, output_file):
     # Dictionary to store responses with example numbers as keys
     json_lines = []
 
     # Iterate through example files
     for num in range(1, n + 1):
+        print(num)
         # Load the Excel file and get the "input" sheet
         excel_file_path = f"{folder}/example{num}.xlsx"
         df = pd.read_excel(excel_file_path, sheet_name="input")
@@ -46,7 +47,7 @@ def get_data_description(folder, n: int, model):
 
         json_lines.append(json_line)
 
-    with jsonlines.open("batch_1_4o.jsonl", mode="w") as writer:
+    with jsonlines.open(output_file, mode="w") as writer:
         for json_line in json_lines:
             writer.write(json_line)
 
@@ -73,8 +74,13 @@ if __name__ == "__main__":
     )
 
     #TODO add argument for the name of the file.
+    parser.add_argument(
+        "--output",
+        dest="output_file",
+        required = True
+    )
 
     # Iterate all if optional
     args = parser.parse_args()
 
-    get_data_description(args.folder, args.n, args.model)
+    get_data_description(args.folder, args.n, args.model, args.output_file)

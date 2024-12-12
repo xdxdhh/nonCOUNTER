@@ -3,9 +3,9 @@ import json
 import numpy as np
 
 
-# Script that iterates the folder with all examples and create a summarization JSON
+# Script that iterates the folder with all examples and create a summarization JSON called data_info
 
-nums = list(range(1,23))
+nums = list(range(1,31))
 print(nums)
 
 data_info_list = []

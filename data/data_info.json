@@ -41,7 +41,7 @@
     },
     {
         "id": 3,
-        "filename": "Usage_Report_for_Florida_International_University__FIU___01_Jul_2022_-_3_tyUKY2s",
+        "filename": "Uptodate_Topic_Hits_by_month_Jan2020-Nov2023",
         "parser": 61,
         "platform": "Uptodate",
         "source": "Australian National University",
@@ -416,7 +416,9 @@
             "DOI",
             "Proprietary",
             "Print ISSN",
-            "Online ISSN"
+            "Online ISSN",
+            "ISBN",
+            "URI"
         ],
         "english": 1,
         "granularity": "monthly",
@@ -481,7 +483,7 @@
         "parser": 20,
         "platform": "NYT",
         "source": "University of Hartford",
-        "begin_month": "06-28",
+        "begin_month": "06-18",
         "end_month": "03-23",
         "metrics": [
             "Period Activations",
@@ -500,5 +502,190 @@
         "metadata": [
             "Access Model"
         ]
+    },
+    {
+        "id": 23,
+        "filename": "22-23_ITER",
+        "parser": null,
+        "platform": null,
+        "source": null,
+        "begin_month": "07-22",
+        "end_month": "06-23",
+        "metrics": [
+            "Total searches run",
+            "Searches-federated and automated",
+            "Total sessions",
+            "Sessions-federated and automated"
+        ],
+        "titles": 1,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": [
+            "Publisher",
+            "Platform"
+        ]
+    },
+    {
+        "id": 24,
+        "filename": "eHRAF_World_Cultures_example_file",
+        "parser": 13,
+        "platform": null,
+        "source": null,
+        "begin_month": "07-20",
+        "end_month": "09-23",
+        "metrics": [
+            "Total Requests",
+            "Total Activities",
+            "Logins",
+            "Browse Activities",
+            "Search Activities",
+            "Document Views",
+            "Help Views",
+            "Citation Views",
+            "Notebook",
+            "User"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": []
+    },
+    {
+        "id": 25,
+        "filename": null,
+        "parser": null,
+        "platform": 25,
+        "source": "Pronunciator_All_Time_as_of_2024-04-08",
+        "begin_month": "02-14",
+        "end_month": "04-24",
+        "metrics": [
+            "Total Registrations",
+            "Total Logins",
+            "Procitizen Logins",
+            "ProFlix",
+            "ProTunes",
+            "Phrasebooks",
+            "ProLive",
+            "Quizzes attempted",
+            "Audio Lessons",
+            "ProRadio",
+            "ProTour",
+            "Drills",
+            "ProSearch"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": []
+    },
+    {
+        "id": 26,
+        "filename": "Usage_Report_for_Florida_International_University__FIU___01_Jul_2022_-_3_tyUKY2s",
+        "platform": null,
+        "source": "Florida International Universiyt",
+        "begin_month": "07-22",
+        "end_month": "06-23",
+        "metrics": [
+            "Search",
+            "Result View/Interaction",
+            "Content Viewed"
+        ],
+        "titles": 1,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": []
+    },
+    {
+        "id": 27,
+        "filename": "Pacific_Northwest_University_of_Health_Sciences_",
+        "parser": 62,
+        "platform": null,
+        "source": "Pacific Northwest University of Health Sciences",
+        "begin_month": "06-23",
+        "end_month": "01-24",
+        "metrics": [
+            "Page Views",
+            "Site Searches",
+            "Unique Visitors"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": []
+    },
+    {
+        "id": 28,
+        "filename": "ctr_institutionMonthlyDatabaseUsage--CAP--202201-202212",
+        "parser": 8,
+        "platform": "OCLC",
+        "source": "Azusa Pacific University",
+        "begin_month": "01-22",
+        "end_month": "12-22",
+        "metrics": [
+            "Total searches run",
+            "Searches-federated and automated",
+            "Total sessions",
+            "Sessions-federated and automated"
+        ],
+        "titles": 1,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": [
+            "Publisher",
+            "Platform"
+        ]
+    },
+    {
+        "id": 29,
+        "filename": "Scifinder_N-example",
+        "parser": 58,
+        "platform": "Scifinder",
+        "source": null,
+        "begin_month": "01-22",
+        "end_month": "12-22",
+        "metrics": [
+            "CATALOG REQUESTS",
+            "DETAILED VIEWS",
+            "FULL TEXT REQUESTS",
+            "PATENTS VIEWED",
+            "SHARES/SAVES/PRINTS/EXPORTS",
+            "SPECTRA VIEWED",
+            "NEW SEARCHES",
+            "REFINED SEARCHES",
+            "REUSED SEARCHES"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": [
+            "Organization"
+        ]
+    },
+    {
+        "id": 30,
+        "filename": "21-22_Encyclopedia_Britannica",
+        "parser": 24,
+        "platform": "Britannica",
+        "source": "Florida International University",
+        "begin_month": "07-21",
+        "end_month": "06-22",
+        "metrics": [
+            "BOL \u2013 Documents",
+            "BOL \u2013 Queries",
+            "BOL \u2013 Media",
+            "BOL \u2013 Hits"
+        ],
+        "titles": 0,
+        "title_identifiers": [],
+        "english": 1,
+        "granularity": "monthly",
+        "metadata": []
     }
 ]
